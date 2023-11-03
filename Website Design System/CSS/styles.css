@@ -1,0 +1,91 @@
+h1{
+    font-weight: 700;
+    font-size: 26px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  h2{
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  p{
+    font-weight: 400;
+    font-size: 14px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  ul li{
+    font-weight: 400;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  br { 
+    display: block; 
+    margin-bottom: 0em; 
+          }
+  
+  .type{
+    border: 1px solid black;
+    padding:15px;
+  }
+  
+  .color{
+    font-size: 18px;
+    text-align: center;
+    display: inline-block;
+    line-height: auto;
+    width: 250px;
+    padding: 20px;
+  }
+  
+  .color.green{
+    background-color: darkseagreen;
+  }
+  .color.orchid{
+    background-color: orchid;
+  }
+  .color.white{
+    background-color: antiquewhite;
+  }
+  
+  .segoe{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .segoe.regular{
+    font-weight: normal;
+  } 
+  .segoe.bold{
+    font-weight: bold;
+  }
+  .segoe.ital{
+    font-style: italic;
+  }
+  
+  .trebuchet{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .trebuchet.regular{
+    font-weight: normal;
+  } 
+  .trebuchet.bold{
+    font-weight: bold;
+  }
+  .trebuchet.ital{
+    font-style: italic;
+  }
+  
+  .cambria{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .cambria.regular{
+    font-weight: normal;
+  } 
+  .cambria.bold{
+    font-weight: bold;
+  }
+  .cambria.ital{
+    font-style: italic;
+  }
